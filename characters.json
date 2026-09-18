@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Blue White",
+    "url": "https://raw.githubusercontent.com/rsagathiya748-dotcom/toonrig-data/main/Bluewhite.png",
+    "type": "pro"
+  },
+  {
+    "name": "Body Part",
+    "url": "https://raw.githubusercontent.com/rsagathiya748-dotcom/toonrig-data/main/Body.png",
+    "type": "free"
+  },
+  {
+    "name": "Ratan",
+    "url": "https://raw.githubusercontent.com/rsagathiya748-dotcom/toonrig-data/main/Ratan.png",
+    "type": "free"
+  }
+]
